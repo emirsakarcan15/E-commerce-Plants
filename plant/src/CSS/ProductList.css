@@ -1,0 +1,13 @@
+.product-list-page-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.plants-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 60px;  
+}
