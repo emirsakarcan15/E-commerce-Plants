@@ -20,6 +20,7 @@ A modern and elegant e-commerce application designed for plant lovers. This proj
 - HTML / CSS
 - JavaScript
 - GitHub Pages (for deployment)
+- Material UI
 
 ## 🧪 Getting Started
 
